@@ -1,2 +1,2 @@
-# Submarine-Game
+# submarine-game
 ⚓️Take down enemy targets ⚓️
